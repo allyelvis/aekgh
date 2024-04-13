@@ -1,0 +1,15 @@
+{
+    "recommendations": [
+        "devsense.phptools-vscode",
+        "platformio.platformio-ide",
+        "vscjava.vscode-java-test",
+        "feiskyer.chatgpt-copilot",
+        "d-biehl.robotcode",
+        "xuangeaha.chartjs",
+        "sixth.sixth",
+        "tizentvweb.tizentvwasm",
+        "adrianwilczynski.add-reference",
+        "doggy8088.netcore-extension-pack",
+        "blairleduc.net-core-starters-pack"
+    ]
+}
